@@ -1,3 +1,3 @@
 # ckad-from-help
 
-Exercises from `kubectl --help`
+Learn from `kubectl --help`
