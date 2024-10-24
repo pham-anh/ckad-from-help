@@ -4,7 +4,7 @@
 Usage:
   kubectl create -f FILENAME [options]
 
-vailable Commands:
+Available Commands:
   clusterrole           Create a cluster role
   clusterrolebinding    Create a cluster role binding for a particular cluster role
   configmap             Create a config map from a local file, directory or literal value
